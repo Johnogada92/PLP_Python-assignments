@@ -36,21 +36,6 @@ Sort: my_list.sort()
 
 Find Index: my_list.index(30)
 
-How to Run
-Prerequisites: Ensure you have Python 3.x installed on your system.
-
-Clone the repository:
-
-bash
-git clone https://github.com/python-assignment/list-operations-assignment.git
-cd list-operations-assignment
-Run the Python script:
-
-bash
-python list_operations.py
-Expected Output
-When you run the script, you should see the following output in your terminal, showing the list's state after each operation:
-
 text
 After appending 10, 20, 30, 40: [10, 20, 30, 40]
 After inserting 15 at position 1: [10, 15, 20, 30, 40]
